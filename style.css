@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(252, 237, 241);
+}
+
+
+img{
+  border-radius: 50px;
+
+}
+
+h1{
+  margin-left: 10px;
+  font-size: 50px;
+}
+
+p{
+  font-size: 20px;
+}
